@@ -1,0 +1,73 @@
+﻿        /* Stilmall - Moment 2 - DT162G, JavaScript-baserad webbutveckling 
+Skapad av Frida Lazzari */
+        
+        body {
+            font-family: larabiefont, monospace;
+            font-size: 1.2rem;
+            line-height: 1.6em;
+            width: 100%;
+        }
+        
+        h1 {
+            background-color: #666;
+            color: #ffffff;
+            font-family: larabiefont, monospace;
+            font-size: 3rem;
+            padding: 2% 0 2% 5%;
+            margin: 2% 5% 2% 5%;
+            text-transform: uppercase;
+        }
+        
+        h2 {
+            font-family: larabiefont, monospace;
+            font-size: 1.8rem;
+            padding: 2% 0 2% 5%;
+            margin: 2% 5% 0 5%;
+            border-bottom: 3px solid#666;
+        }
+        
+        table {
+            padding: 2% 0 2% 5%;
+            margin: 2% 5% 0 5%;
+            width: 80%;
+        }
+        
+        table thead tr th {
+            font-size: 1.2rem;
+            font-weight: 600;
+            text-align: left;
+            text-transform: uppercase;
+        }
+        
+        a {
+            color: #ffffff;
+        }
+        
+        span {
+            color: rgb(179, 2, 2);
+            text-decoration: underline;
+            font-weight: 600;
+            float: right;
+        }
+        
+        form {
+            font-family: larabiefont, monospace;
+            font-size: 1.2rem;
+            padding: 2% 0 0 5%;
+            margin: 2% 0 0 5%;
+        }
+        
+        input {
+            font-family: larabiefont, monospace;
+            font-size: 1.4rem;
+            padding: 1%;
+            margin-bottom: 2%;
+        }
+        
+        footer {
+            background-color: #666;
+            margin-top: 3rem;
+            font-size: 1rem;
+            color: #ffffff;
+            text-align: center;
+        }
